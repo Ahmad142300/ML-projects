@@ -21,3 +21,5 @@ wandb/
 *.log
 *.csv
 *.tsv
+*.pt
+*.pth
