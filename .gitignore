@@ -1,0 +1,29 @@
+# Ignore VOC dataset and annotations
+VOC_data/
+VOC_data/VOCdevkit/VOC2007/Annotations/
+*.xml
+*.txt
+# Ignore dataset folders
+caltech-101/
+data/
+datasets/
+VOC_data/
+wandb/
+
+# Ignore common image file types
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# Ignore large zip files
+*.zip
+
+# Ignore temporary and cache files
+.DS_Store
+*.log
+*.csv
+*.tsv
+

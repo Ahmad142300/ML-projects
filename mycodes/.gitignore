@@ -1,0 +1,15 @@
+caltech-101/
+data/
+datasets/
+VOC_data/
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.zip
+.DS_Store
+*.log
+*.csv
+*.tsv
