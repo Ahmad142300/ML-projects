@@ -1,0 +1,6 @@
+names:
+- cable tower
+- turbine
+nc: 2
+train: C:\Users\trh00\.cache\kagglehub\datasets\kylegraupe\wind-turbine-image-dataset-for-computer-vision\versions\12\train\images
+val: C:\Users\trh00\.cache\kagglehub\datasets\kylegraupe\wind-turbine-image-dataset-for-computer-vision\versions\12\valid\images
